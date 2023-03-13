@@ -40,7 +40,7 @@
     <item>
       <title>Системы контроля версий. Git</title>
       <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;управление-версиями-git&#34;&gt;Управление версиями. Git.&lt;/h2&gt;
 &lt;p&gt;Системы контроля версий (ВКС, внгл. VCS - Vesion Control Systems) применяются при работе нескольких человек над каким-либо проектом. Они позволяют сделать откат к предыдущим версиям проекта, не потеряв при этом новых  наработок и внесённых в проект изменений. К примеру, разработчики выложили новую версию проекта, однако в ней обнаружились ошибки. Чтобы не потерять изменения и исправить ошибки, благодаря системам контроля версий есть возможность вернуться к старому, рабочему варианту, и затем устранить недоработки.&lt;/p&gt;
@@ -185,7 +185,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-816374529&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-967514328&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -195,7 +195,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-816374529&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-967514328&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
