@@ -5,12 +5,33 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Пост по прошедшей неделе 2.0</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-2.0/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-2.0/</guid>
+      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
+&lt;h3 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h3&gt;
+&lt;p&gt;Неделя началась с учёбы на удалёнке. Я прослушала лекцию, затем съездила в гости к друзьям, сделала домашнее задание. Продуктивно получилось!&lt;/p&gt;
+&lt;h3 id=&#34;вторник&#34;&gt;Вторник&lt;/h3&gt;
+&lt;p&gt;Пары сегодня были интересными. На матанализе за правильные ответы раздавали конфеты.&lt;/p&gt;
+&lt;h3 id=&#34;среда&#34;&gt;Среда&lt;/h3&gt;
+&lt;p&gt;Сегодня мои любимые предметы! День прекрасен.&lt;/p&gt;
+&lt;h3 id=&#34;четверг&#34;&gt;Четверг&lt;/h3&gt;
+&lt;p&gt;Сегодня мы пытались починить некорректно работающую функцию на С++, и сделали это. Ура! Вечером мы отправились в кино на фильм-катастрофу.&lt;/p&gt;
+&lt;h3 id=&#34;пятница&#34;&gt;Пятница&lt;/h3&gt;
+&lt;p&gt;Сходила на пары по английскому, сдала работы. А вечером мы отправились гулять по центру города и зашли поужинать в кафе. Идеальное завершение дня.&lt;/p&gt;
+&lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
+&lt;p&gt;Благодарю за прочтение! Такие посты будут выходить раз в 3 недели. Следуйте за мной, чтобы не пропустить ничего интересного.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по прошедшей неделе</title>
