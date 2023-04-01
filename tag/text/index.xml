@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text | Academic</title>
+    <link>https://example.com/tag/text/</link>
+      <atom:link href="https://example.com/tag/text/index.xml" rel="self" type="application/rss+xml" />
+    <description>Text</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Text</title>
+      <link>https://example.com/tag/text/</link>
+    </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <description>&lt;h2 id=&#34;что-такое-языки-разметки-и-с-чем-их-едят&#34;&gt;Что такое языки разметки и с чем их едят?&lt;/h2&gt;
+&lt;p&gt;Если вы впервые слышите это словосочетание, то эта статья определённо для вас! Итак, &lt;strong&gt;Язы́к разме́тки&lt;/strong&gt; (текста) &lt;em&gt;в компьютерной терминологии&lt;/em&gt; — набор символов или последовательностей символов, вставляемых в текст для передачи информации о его отображении или строении. Принадлежит классу компьютерных языков. Текстовый документ, написанный с использованием языка разметки, содержит не только сам текст (как последовательность слов и знаков препинания), но и дополнительную информацию о различных его участках — например, указание на заголовки, выделения, списки и т. д. В более сложных случаях язык разметки позволяет вставлять в документ интерактивные элементы и содержание других документов.&lt;/p&gt;
+&lt;p&gt;Следует отметить, что язык разметки неполон по Тьюрингу и обычно не считается языком программирования.&lt;/p&gt;
+&lt;h2 id=&#34;логическая-и-визуальная-разметки&#34;&gt;Логическая и визуальная разметки&lt;/h2&gt;
+&lt;p&gt;Различают логическую и визуальную разметки. В первом случае речь идёт только о том, какую роль играет данный участок документа в его общей структуре (например, «данная строка является заголовком»). Во втором — определяется, как именно будет отображаться этот элемент (например, «данную строку следует отображать жирным шрифтом»). Идея языков разметки состоит в том, что визуальное отображение документа должно автоматически получаться из логической разметки и не зависеть от его непосредственного содержания. Это упрощает автоматическую обработку документа и его отображение в различных условиях (например, один и тот же файл может по-разному отображаться на экране компьютера, мобильного телефона и на печати, поскольку свойства этих устройств вывода существенно различаются). Однако это правило часто нарушается: например, создавая документ в редакторе наподобие MS Word, пользователь может выделять заголовки жирным шрифтом, но нигде не указывать, что эта строка является заголовком.&lt;/p&gt;
+&lt;h2 id=&#34;примеры-языков-разметки&#34;&gt;Примеры языков разметки&lt;/h2&gt;
+&lt;p&gt;Языки разметки используются везде, где требуется получение форматированного текста[en] на основании одного лишь текста: в типографии (SGML, TeX, PostScript, RTF), пользовательских интерфейсах компьютеров (Microsoft Word, OpenOffice), Всемирной Сети (HTML, XHTML, XML, WML, VML, PGML, SVG, XBRL). Довольно распространён и Markdown, о котором пойдёт речь дальше.&lt;/p&gt;
+&lt;h2 id=&#34;синтаксис-markdown&#34;&gt;Синтаксис Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Оформление элементов текста в Markdown:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Заголовки:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Чтобы создать заголовок, используем знак #:&lt;/p&gt;
+&lt;h1 id=&#34;заголовок-1-го-уровня--заголовок-2-го-уровня-и-тд-1&#34;&gt;Заголовок 1-го уровня, ## Заголовок 2-го уровня, и т.д. [1]&lt;/h1&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Тип начертания:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Полужирное начертание (** с двух сторон): &lt;strong&gt;ваш текст&lt;/strong&gt;
+Курсивное начертание (* с двух сторон): &lt;em&gt;ваш текст&lt;/em&gt;
+Полужирное + курсивное начертание (*** с двух сторон): &lt;em&gt;&lt;strong&gt;ваш текст&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Цитирование (&amp;gt;):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ваша цитата&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Списки:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Маркированный (неупорядоченный) список (Обозначаем элементы списка тире или звёздочками):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;пункт 1&lt;/li&gt;
+&lt;li&gt;пункт 2&lt;/li&gt;
+&lt;li&gt;пункт 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Вложение списков (используем отступы):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;пункт 1
+&lt;ul&gt;
+&lt;li&gt;подпункт 1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;пункт 2
+&lt;ul&gt;
+&lt;li&gt;подпункт 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Упорядоченный список (используем цифры):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Пункт 1;&lt;/li&gt;
+&lt;li&gt;Пункт 2;&lt;/li&gt;
+&lt;li&gt;Пункт 3.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Чтобы вложить один список в другой, также используем отступы.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Гиперссылки (в квадратных скобках пишется название ссылки, а в круглых рядом - веб-сайт):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/deibatulina/study_2022-2023_os-intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Мой репозиторий на Github&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Оформление кода (код оформляется символами ``` сверху и снизу):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Hello, world!&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Формулы и их отображение:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Чтобы поставить нижний индекс, используем знак тильды (~):&lt;/p&gt;
+&lt;p&gt;H~2~0&lt;/p&gt;
+&lt;p&gt;Чтобы поставить степень, пишем знак ^ два раза:&lt;/p&gt;
+&lt;p&gt;2^10^&lt;/p&gt;
+&lt;p&gt;Знакомая нам со школы формула (основное тригонометрическое тождество) будет выглядеть так (заключаем формулу в знаки доллара с двух сторон):
+$\sin^2 (x) + \cos^2 (x) 1$&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Оформление картинок:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Чтобы вставить в текст иллюстрацию, нужно использовать следующий синтаксис (![указываем название изображения](относительный путь к изображению)) (рис. @fig:001):&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/test.jpg&#34; alt=&#34;Подпись к изображению&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:001 width=70%}&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Обработка файлов в формате Markdown (.md):&lt;/p&gt;
+&lt;p&gt;Для того, чтобы обрабатывать файлы в таком формате, нам понадобится следующее ПО: &lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc - официальный сайт&lt;/a&gt;, &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pandoc-citeproc&lt;/a&gt; и &lt;a href=&#34;https://github.com/lierdakil/pandoc-crossref/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pandoc-crossref&lt;/a&gt;. Все эти программы были установлены мною в ходе выполнения лабораторной работы №1.&lt;/p&gt;
+&lt;p&gt;Преобразовать файл README.md можно следующим образом:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pandoc README.md -o README.pdf
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Получим файл в формате .pdf, скомпилированный из Markdown. Так же можно скомпилировать и файл в формате .docx.&lt;/p&gt;
+&lt;p&gt;А ещё можно использовать Makefile (в папке с отчётом по лабораторной работе и в папке с презентацией по ней он уже есть). В данном файле указываются параметры компиляции.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
