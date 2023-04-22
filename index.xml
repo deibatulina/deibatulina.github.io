@@ -33,6 +33,27 @@
     </item>
     
     <item>
+      <title>Пост по прошедшей неделе 3.0</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_3/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_3/</guid>
+      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
+&lt;h3 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h3&gt;
+&lt;p&gt;Неделя началась с учёбы на удалёнке. Я заработала баллы за активность на лекции и отправилась гулять с друзьями. Затем вечером мне нужно было улетать обратно в Москву. Вернулась я поздно, зато долетела без приключений.&lt;/p&gt;
+&lt;h3 id=&#34;вторник&#34;&gt;Вторник&lt;/h3&gt;
+&lt;p&gt;Сегодня на матанализе было интересно. Потом я пошла на тренировку.&lt;/p&gt;
+&lt;h3 id=&#34;среда&#34;&gt;Среда&lt;/h3&gt;
+&lt;p&gt;Я заработала баллы за активность на семинаре по мат.логике, а также успешно сдала коллоквиум по аналитической геометрии на 10/10!&lt;/p&gt;
+&lt;h3 id=&#34;четверг&#34;&gt;Четверг&lt;/h3&gt;
+&lt;p&gt;Сегодня я сделала всё, что запланировала и сходила на учёбу.&lt;/p&gt;
+&lt;h3 id=&#34;пятница&#34;&gt;Пятница&lt;/h3&gt;
+&lt;p&gt;Сходила на пары по английскому, сдала работы. Приготовила ужин и посмотрела интересный фильм.&lt;/p&gt;
+&lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
+&lt;p&gt;Благодарю за прочтение! Такие посты будут выходить раз в 3 недели. Следуйте за мной, чтобы не пропустить ничего интересного.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Пост по прошедшей неделе 2.0</title>
       <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_2/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
@@ -270,7 +291,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-473925168&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-964371852&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -280,7 +301,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-473925168&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-964371852&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
