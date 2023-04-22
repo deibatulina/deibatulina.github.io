@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>лабораторная работа | Academic</title>
+    <link>https://example.com/tag/%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/</link>
+      <atom:link href="https://example.com/tag/%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <description>лабораторная работа</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>лабораторная работа</title>
+      <link>https://example.com/tag/%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/</link>
+    </image>
+    
+    <item>
+      <title>Оформление отчётов</title>
+      <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <description>&lt;h2 id=&#34;оформление-отчётов&#34;&gt;Оформление отчётов&lt;/h2&gt;
+&lt;h3 id=&#34;начало-работы&#34;&gt;Начало работы&lt;/h3&gt;
+&lt;p&gt;В самом начале мы должны были клонировать репозиторий с гитхаба, который даж нам преподаватель, чтобы иметь возможность генерировать отчёты по лабораторным работам по готовым шаблонам, которые просто требуется заполнить своими данными.&lt;/p&gt;
+&lt;h3 id=&#34;что-за-отчёты&#34;&gt;Что за отчёты?&lt;/h3&gt;
+&lt;p&gt;Все лабораторные работы должны выполняться с фиксацией снимков экрана (скриншотов), фиксирующих выполнение заданий лабораторной работы.&lt;/p&gt;
+&lt;h3 id=&#34;составляющие-отчёта&#34;&gt;Составляющие отчёта&lt;/h3&gt;
+&lt;p&gt;Отчёт должен включать в себя:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Титульный лист с указанием номера лабораторной работы и ФИО студента.&lt;/li&gt;
+&lt;li&gt;Формулировка цели работы.&lt;/li&gt;
+&lt;li&gt;Описание результатов выполнения задания:
+– скриншоты (снимки экрана), фиксирующие выполнение лабораторной работы;
+– листинги (исходный код) программ (если они есть);
+– результаты выполнения программ (текст или снимок экрана в зависимости от
+задания).&lt;/li&gt;
+&lt;li&gt;Выводы, согласованные с целью работы.&lt;/li&gt;
+&lt;li&gt;Ответы на контрольные вопросы.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;формат-отчётов&#34;&gt;Формат отчётов&lt;/h3&gt;
+&lt;p&gt;Отчёт пишется в Markdown, затем с помощью команды make генерируется в форматы: docx и pdf благодаря использованию makefile.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
