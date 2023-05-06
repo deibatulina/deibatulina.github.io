@@ -5,12 +5,33 @@
     <link>https://example.com/tag/%D0%B0%D0%B8%D1%82%D0%B8/</link>
       <atom:link href="https://example.com/tag/%D0%B0%D0%B8%D1%82%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <description>айти</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 May 2023 00:18:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>айти</title>
       <link>https://example.com/tag/%D0%B0%D0%B8%D1%82%D0%B8/</link>
     </image>
+    
+    <item>
+      <title>Пост по прошедшей неделе 4.0</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_4/</link>
+      <pubDate>Sat, 06 May 2023 00:18:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_4/</guid>
+      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
+&lt;h3 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h3&gt;
+&lt;p&gt;В понедельник у нас был выходной. Поэтому я отправилась гулять с друзьями утром, затем сделала домашнее задание, а вечером мы с подругой пошли в театр.&lt;/p&gt;
+&lt;h3 id=&#34;вторник&#34;&gt;Вторник&lt;/h3&gt;
+&lt;p&gt;С утра я поехала в университет. Первой парой у нас был матанализ, а второй - компьютерная алгебра. Затем я пошла на тренировку: там я вдоволь побегала, сделала силовые упражнения, в общем, провела время с пользой для своего здоровья. Мне понравился день!&lt;/p&gt;
+&lt;h3 id=&#34;среда&#34;&gt;Среда&lt;/h3&gt;
+&lt;p&gt;А в среду у нас тоже были всего 2 пары утром - аналитическая геометрия и математическая логика. Эти предметы я обожаю, поэтому на этих парах время для меня летит незаметно.&lt;/p&gt;
+&lt;h3 id=&#34;четверг&#34;&gt;Четверг&lt;/h3&gt;
+&lt;p&gt;Утром я пришла ко второй паре - технологии программирования. Она оказалась интересной, мы проходили матрицы и писали некоторые операторы для них. Затем у нас был перерыв, а после - пара лекции по матанализу.&lt;/p&gt;
+&lt;h3 id=&#34;пятница&#34;&gt;Пятница&lt;/h3&gt;
+&lt;p&gt;Сегодня я решила дать себе возможность отдохнуть, и не пошла на пары по модулю переводчика. Я отправилась к дяде в гости и поделала некоторое домашнее задание.&lt;/p&gt;
+&lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
+&lt;p&gt;Благодарю за прочтение! Подпишитесь, чтобы не пропускать выходы новых постов!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по прошедшей неделе 3.0</title>
