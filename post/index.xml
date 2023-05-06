@@ -31,9 +31,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Работа с большими векторами и матрицами является ключевой особенностью этих языков, поскольку линейная алгебра закладывает основу для математической оптимизации, которая, в свою очередь, обеспечивает основные приложения, такие как глубокое обучение.&lt;/p&gt;
 &lt;h3 id=&#34;математическая-оптимизация&#34;&gt;Математическая оптимизация&lt;/h3&gt;
 &lt;p&gt;На научном языке программирования мы можем вычислять оптимумы функций с синтаксисом, близким к математическому языку. Например, следующий код Julia находит минимум многочлена&lt;/p&gt;
-&lt;p&gt;$$
-P(x,y)=x^{2}-3xy+5y ^{2}-7y+3
-$$&lt;/p&gt;
+&lt;p&gt;$$ P(x,y)=x^2-3&lt;em&gt;x&lt;/em&gt;y+5&lt;em&gt;y^2-7&lt;/em&gt;y+3. $$&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;использование Optim
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;P(x,y) = x^2 - 3x*y + 5y^2 - 7y + 3
@@ -356,7 +354,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-748125936&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-164978532&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -366,7 +364,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-748125936&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-164978532&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
