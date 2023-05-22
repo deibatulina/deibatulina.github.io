@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Академик</title>
+    <link>https://example.com/ru/project/</link>
+      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 06 May 2023 12:56:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>OS Project (2022-2023)</title>
+      <link>https://example.com/ru/project/example/</link>
+      <pubDate>Sat, 06 May 2023 12:56:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/example/</guid>
+      <description>&lt;p&gt;Управление проектами — это то, что делает бизнес успешным. Проекты могут быть разными: будь то вывод продукта на рынок в «сжатые сроки» или внедрение новой системы управления в компании без остановки бизнеса — но подходы в эффективности и управлении схожие.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ключевые составляющие успешного проекта&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Выбрать подход к управлению проектом:&lt;/p&gt;
+&lt;p&gt;Есть разные способы определения подходов для своих проектов. Я использую следующий алгоритм.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Отвечаю на вопросы:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Цели проекта четко определены или расплывчаты?&lt;/li&gt;
+&lt;li&gt;Технологии понятны или могут много раз меняться?&lt;/li&gt;
+&lt;li&gt;Заказчик определился с требованиями или хочет начинать как можно раньше и определяться по ходу?&lt;/li&gt;
+&lt;li&gt;Заказчик определился с требованиями или хочет начинать как можно раньше и определяться по ходу?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Наметить цели проекта и определить критерии успешности:&lt;/p&gt;
+&lt;p&gt;Сперва нужно понять, куда мы хотим прийти и как достичь своей цели. Например, мы управляем проектом по проведению конференции. Что будет целью проекта, и как мы сможем понять, что проект успешен?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сформировать команду:&lt;/p&gt;
+&lt;p&gt;Итак, что делать — понятно. Только вот одному вряд ли удастся справиться, поэтому нужно собрать команду.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Кто нам нужен? Это зависит от специфики проекта.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Организовать коммуникацию:&lt;/p&gt;
+&lt;p&gt;Одного только блеска глаз недостаточно. Поэтому нужно определить, каким образом участники будут взаимодействовать друг с другом.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Организовать мониторинг и контроль:&lt;/p&gt;
+&lt;p&gt;Независимо от того, насколько мы идеально спланировали проект, через время все может поменяться. Наши планы со временем утрачивают актуальность, требуют корректировки или перепланирования.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://example.com/ru/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
