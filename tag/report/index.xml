@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>report | Academic</title>
+    <link>https://example.com/tag/report/</link>
+      <atom:link href="https://example.com/tag/report/index.xml" rel="self" type="application/rss+xml" />
+    <description>report</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>report</title>
+      <link>https://example.com/tag/report/</link>
+    </image>
+    
+    <item>
+      <title>Making reports</title>
+      <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <description>&lt;h2 id=&#34;making-reports&#34;&gt;Making reports&lt;/h2&gt;
+&lt;h3 id=&#34;getting-started&#34;&gt;Getting started&lt;/h3&gt;
+&lt;p&gt;At the very beginning, we had to clone the repository from the github, which the teacher gave us, in order to be able to generate reports on laboratory work using ready-made templates that just need to be filled in with our data.&lt;/p&gt;
+&lt;h3 id=&#34;what-kind-of-reports&#34;&gt;What kind of reports?&lt;/h3&gt;
+&lt;p&gt;All laboratory work must be carried out with the fixation of screen shots (screenshots) that record the completion of laboratory work tasks.&lt;/p&gt;
+&lt;h3 id=&#34;components-of-the-report&#34;&gt;Components of the report&lt;/h3&gt;
+&lt;p&gt;The report should include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The title page with the number of the laboratory work and the full name of the student.&lt;/li&gt;
+&lt;li&gt;Formulation of the purpose of the work.&lt;/li&gt;
+&lt;li&gt;Description of the results of the task:
+– screenshots (screenshots) that record the performance of laboratory work;
+– listings (source code) of programs (if any);
+– program execution results (text or screenshot depending on
+the task).&lt;/li&gt;
+&lt;li&gt;Conclusions agreed with the purpose of the work.&lt;/li&gt;
+&lt;li&gt;Answers to security questions.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;report-format&#34;&gt;Report format&lt;/h3&gt;
+&lt;p&gt;The report is written in Markdown, then using the make command it is generated in docx and pdf formats thanks to the use of makefile.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

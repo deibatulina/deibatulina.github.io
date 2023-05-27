@@ -30,6 +30,166 @@
                 href="https://example.com/event/"
                 />
   </url><url>
+    <loc>https://example.com/tag/artificial-intelligence/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/tag/artificial-intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tag/artificial-intelligence/"
+                />
+  </url><url>
+    <loc>https://example.com/post/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/post/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/"
+                />
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/"
+                />
+  </url><url>
+    <loc>https://example.com/category/demo/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/category/demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/category/demo/"
+                />
+  </url><url>
+    <loc>https://example.com/tag/high-tech/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/tag/high-tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tag/high-tech/"
+                />
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/"
+                />
+  </url><url>
+    <loc>https://example.com/tag/robots/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/tag/robots/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tag/robots/"
+                />
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/"
+                />
+  </url><url>
+    <loc>https://example.com/tag/technologies/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/tag/technologies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tag/technologies/"
+                />
+  </url><url>
+    <loc>https://example.com/tag/exam/</loc>
+    <lastmod>2023-05-22T00:18:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/homework/</loc>
+    <lastmod>2023-05-22T00:18:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/it/</loc>
+    <lastmod>2023-05-22T00:18:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_5/</loc>
+    <lastmod>2023-05-22T00:18:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_5/"
+                />
+  </url><url>
+    <loc>https://example.com/tag/studying/</loc>
+    <lastmod>2023-05-22T00:18:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/week/</loc>
+    <lastmod>2023-05-22T00:18:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/project/example/</loc>
     <lastmod>2023-05-06T12:56:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -72,34 +232,6 @@
                 href="https://example.com/tag/successful-project/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-05-06T12:56:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tags/"
-                />
-  </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2023-05-06T00:55:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/"
-                />
-  </url><url>
     <loc>https://example.com/tag/cpp/</loc>
     <lastmod>2023-05-06T00:55:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,20 +244,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/tag/cpp/"
-                />
-  </url><url>
-    <loc>https://example.com/category/demo/</loc>
-    <lastmod>2023-05-06T00:55:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/category/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/category/demo/"
                 />
   </url><url>
     <loc>https://example.com/tag/fortran/</loc>
@@ -170,20 +288,6 @@
                 href="https://example.com/tag/matlab/"
                 />
   </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2023-05-06T00:55:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/post/"
-                />
-  </url><url>
     <loc>https://example.com/tag/python/</loc>
     <lastmod>2023-05-06T00:55:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -212,34 +316,6 @@
                 href="https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/"
                 />
   </url><url>
-    <loc>https://example.com/tag/%D0%B0%D0%B8%D1%82%D0%B8/</loc>
-    <lastmod>2023-05-06T00:18:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/tag/%D0%B0%D0%B8%D1%82%D0%B8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tag/%D0%B0%D0%B8%D1%82%D0%B8/"
-                />
-  </url><url>
-    <loc>https://example.com/tag/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc>
-    <lastmod>2023-05-06T00:18:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/tag/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tag/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/"
-                />
-  </url><url>
     <loc>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_4/</loc>
     <lastmod>2023-05-06T00:18:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,18 +330,26 @@
                 href="https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_4/"
                 />
   </url><url>
-    <loc>https://example.com/tag/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/</loc>
-    <lastmod>2023-05-06T00:18:00+00:00</lastmod>
+    <loc>https://example.com/tag/airplane/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/laboratory-work/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tag/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/"
+                href="https://example.com/ru/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tag/%D1%83%D1%87%D0%B5%D0%B1%D0%B0/"
+                href="https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/"
                 />
   </url><url>
     <loc>https://example.com/tag/markdown/</loc>
@@ -282,89 +366,9 @@
                 href="https://example.com/tag/markdown/"
                 />
   </url><url>
-    <loc>https://example.com/tag/%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/</loc>
+    <loc>https://example.com/tag/operational-systems/</loc>
     <lastmod>2023-04-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/tag/%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tag/%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/"
-                />
-  </url><url>
-    <loc>https://example.com/tag/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/</loc>
-    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/tag/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tag/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/"
-                />
-  </url><url>
-    <loc>https://example.com/tag/%D0%BE%D1%82%D1%87%D0%B5%D1%82/</loc>
-    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/tag/%D0%BE%D1%82%D1%87%D0%B5%D1%82/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tag/%D0%BE%D1%82%D1%87%D0%B5%D1%82/"
-                />
-  </url><url>
-    <loc>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</loc>
-    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/"
-                />
-  </url><url>
-    <loc>https://example.com/tag/%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0-%D0%B4%D0%BE%D0%BC%D0%BE%D0%B8/</loc>
-    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/tag/%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0-%D0%B4%D0%BE%D0%BC%D0%BE%D0%B8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tag/%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BA%D0%B0-%D0%B4%D0%BE%D0%BC%D0%BE%D0%B8/"
-                />
-  </url><url>
-    <loc>https://example.com/tag/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82-%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D0%B5/</loc>
-    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/tag/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82-%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D0%B5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tag/%D0%BF%D0%BE%D0%BB%D0%B5%D1%82-%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82%D0%B5/"
-                />
   </url><url>
     <loc>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_3/</loc>
     <lastmod>2023-04-22T00:00:00+00:00</lastmod>
@@ -380,18 +384,34 @@
                 href="https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_3/"
                 />
   </url><url>
-    <loc>https://example.com/tag/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD/</loc>
+    <loc>https://example.com/tag/report/</loc>
     <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/studies/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/template/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/trip_to_home/</loc>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/markdown/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://example.com/ru/tag/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD/"
+                href="https://example.com/ru/post/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tag/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD/"
+                href="https://example.com/post/markdown/"
                 />
   </url><url>
     <loc>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_2/</loc>
@@ -408,20 +428,6 @@
                 href="https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_2/"
                 />
   </url><url>
-    <loc>https://example.com/post/markdown/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/post/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/post/markdown/"
-                />
-  </url><url>
     <loc>https://example.com/tag/git/</loc>
     <lastmod>2023-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -434,6 +440,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/tag/git/"
+                />
+  </url><url>
+    <loc>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/</loc>
+    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://example.com/ru/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/"
                 />
   </url><url>
     <loc>https://example.com/tag/systems-of-version-control/</loc>
@@ -462,20 +482,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/tag/vcs/"
-                />
-  </url><url>
-    <loc>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/</loc>
-    <lastmod>2023-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://example.com/ru/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/"
                 />
   </url><url>
     <loc>https://example.com/post/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8.-git/</loc>

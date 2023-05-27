@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exam | Academic</title>
+    <link>https://example.com/tag/exam/</link>
+      <atom:link href="https://example.com/tag/exam/index.xml" rel="self" type="application/rss+xml" />
+    <description>exam</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 00:18:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>exam</title>
+      <link>https://example.com/tag/exam/</link>
+    </image>
+    
+    <item>
+      <title>Post about last week 5.0</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_5/</link>
+      <pubDate>Mon, 22 May 2023 00:18:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_5/</guid>
+      <description>&lt;h2 id=&#34;last-weeks-post&#34;&gt;Last week&amp;rsquo;s post&lt;/h2&gt;
+&lt;h3 id=&#34;monday&#34;&gt;Monday&lt;/h3&gt;
+&lt;p&gt;We had one remote couple, at which I gave a report. I hope he gets a high rating! And now I&amp;rsquo;m doing homework in all other subjects.&lt;/p&gt;
+&lt;h3 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h3&gt;
+&lt;p&gt;I need to go to the university (to write a test on matanalysis), then to the hospital and then to training.&lt;/p&gt;
+&lt;h3 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;On Wednesday I was writing a test paper on analytical geometry. I hope I wrote it well.&lt;/p&gt;
+&lt;h3 id=&#34;thursday&#34;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;In the morning, I moved to the university to take the last laboratory on programming technology, as well as listen to two lectures on matanalysis.&lt;/p&gt;
+&lt;h3 id=&#34;friday&#34;&gt;Friday&lt;/h3&gt;
+&lt;p&gt;Fridays are always hard for me, because we have four pairs in a row, and the last one ends at 19:20. I had to hand in an essay and my only debt.&lt;/p&gt;
+&lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
+&lt;p&gt;Thank you for reading! Follow me so as not to miss the exits of new posts!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

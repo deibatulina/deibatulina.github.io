@@ -5,7 +5,7 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 May 2023 00:55:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
@@ -13,177 +13,216 @@
     </image>
     
     <item>
-      <title>Языки научного программирования</title>
+      <title>Artificial Intelligence</title>
+      <link>https://example.com/post/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</guid>
+      <description>&lt;h2 id=&#34;artificial-intelligence&#34;&gt;Artificial Intelligence&lt;/h2&gt;
+&lt;p&gt;Artificial intelligence (AI) is the science and technology of creating intelligent machines, especially intelligent computer programs. AI is related to the similar task of using computers to understand human intelligence, but is not necessarily limited to biologically plausible methods.&lt;/p&gt;
+&lt;p&gt;For 2021 , the researchers used the following classification of AI types:&lt;/p&gt;
+&lt;p&gt;Artificial Super Intelligence (ASI) is a hypothetical AI that can not only reproduce the maximum of human abilities, but even surpass it. Those who believe in ASI believe that he will gain the power to penetrate a person&amp;rsquo;s thoughts and feelings in order to subordinate him to his will. See Supermind: horror stories of futurologists or the real future of artificial intelligence?&lt;/p&gt;
+&lt;p&gt;The strong or general AI (Artificial General Intelligence, AGI), which also remains hypothetical, is a step below ASI in terms of intelligence, adherents of this type of AI are limited in their beliefs by the possibility of creating machines capable of at least performing the same actions as a person.&lt;/p&gt;
+&lt;p&gt;Weak, or narrow AI (Artificial Narrow Intelligence, ANI) allows you to see weak hints of intelligence in the behavior of machines (that&amp;rsquo;s why it is called weak). It is designed to run only a strictly defined narrow range of applications (that&amp;rsquo;s why it is called narrow). In the case of ANI, no autonomous behavior or independent development beyond human control is possible. Systems equipped with ANI can exist only in the form in which they were created by man and even theoretically cannot get out of his control.&lt;/p&gt;
+&lt;p&gt;Outdated general definitions of artificial intelligence:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(J. McCarthy) AI develops machines that have intelligent behavior;&lt;/li&gt;
+&lt;li&gt;(Britannica) AI - the ability of digital computers to solve tasks that are usually associated with highly intelligent human capabilities;&lt;/li&gt;
+&lt;li&gt;(Feigenbaum) AI - develops intelligent computer systems with capabilities that we traditionally associate with the human mind: language understanding, learning, the ability to reason, solve problems, etc.;&lt;/li&gt;
+&lt;li&gt;(Elaine Rich) AI is the science of how to teach computers to do something in which a person is currently more successful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Intelligence (from Lat. &lt;em&gt;intellectus&lt;/em&gt; — sensation, perception, understanding, understanding, concept, reason), or mind is a quality of the psyche consisting of the ability to adapt to new situations, the ability to learn and memorize based on experience, understanding and applying abstract concepts and using their knowledge to manage the environment. Intelligence is the general ability to cognize and solve difficulties, which unites all the cognitive abilities of a person: sensation, perception, memory, representation, thinking, imagination.&lt;/p&gt;
+&lt;p&gt;In the early 1980s, scientists in the field of computational theory Barr and Feigenbaum proposed the following definition of artificial intelligence (AI):
+&amp;ldquo;Artificial intelligence is a field of computer science that develops intelligent computer systems, that is, systems with capabilities that we traditionally associate with the human mind - language understanding, learning, the ability to to reason, solve problems, etc.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Later, a number of algorithms and software systems began to be attributed to AI, the distinctive feature of which is that they can solve some problems the way a person thinking about their solution would do.&lt;/p&gt;
+&lt;p&gt;The main properties of AI are language understanding, learning, and the ability to think and, importantly, act.
+AI is a complex of related technologies and processes that are developing qualitatively and rapidly, for example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;natural language text processing&lt;/li&gt;
+&lt;li&gt;machine learning;&lt;/li&gt;
+&lt;li&gt;expert systems;&lt;/li&gt;
+&lt;li&gt;virtual agents (chatbots and virtual assistants);&lt;/li&gt;
+&lt;li&gt;recommendation systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;at-what-stage-of-development-is-artificial-intelligence-now&#34;&gt;At what stage of development is artificial intelligence now?&lt;/h2&gt;
+&lt;p&gt;British scientist Stephen Hawking has often spoken about the development of artificial intelligence (AI) as the real reason for the possible destruction of the human race.&lt;/p&gt;
+&lt;p&gt;In April 2017, Stephen Hawking, during a videoconference in Beijing, held as part of the Global Mobile Internet Conference, said:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The development of artificial intelligence can become both the most positive and the most terrible factor for humanity. We must be aware of the danger it poses,&amp;rdquo; he stressed.&lt;/p&gt;
+&lt;p&gt;As the scientist said in his interview with Wired at the end of November 2017, he fears that AI may replace humans in general. According to Hawking himself, people can create too powerful artificial intelligence, which will be extremely good at achieving their goals. And if these goals do not coincide with human goals, then people will have problems, the scientist believes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post about last week 5.0</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_5/</link>
+      <pubDate>Mon, 22 May 2023 00:18:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_5/</guid>
+      <description>&lt;h2 id=&#34;last-weeks-post&#34;&gt;Last week&amp;rsquo;s post&lt;/h2&gt;
+&lt;h3 id=&#34;monday&#34;&gt;Monday&lt;/h3&gt;
+&lt;p&gt;We had one remote couple, at which I gave a report. I hope he gets a high rating! And now I&amp;rsquo;m doing homework in all other subjects.&lt;/p&gt;
+&lt;h3 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h3&gt;
+&lt;p&gt;I need to go to the university (to write a test on matanalysis), then to the hospital and then to training.&lt;/p&gt;
+&lt;h3 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;On Wednesday I was writing a test paper on analytical geometry. I hope I wrote it well.&lt;/p&gt;
+&lt;h3 id=&#34;thursday&#34;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;In the morning, I moved to the university to take the last laboratory on programming technology, as well as listen to two lectures on matanalysis.&lt;/p&gt;
+&lt;h3 id=&#34;friday&#34;&gt;Friday&lt;/h3&gt;
+&lt;p&gt;Fridays are always hard for me, because we have four pairs in a row, and the last one ends at 19:20. I had to hand in an essay and my only debt.&lt;/p&gt;
+&lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
+&lt;p&gt;Thank you for reading! Follow me so as not to miss the exits of new posts!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
       <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
       <pubDate>Sat, 06 May 2023 00:55:00 +0000</pubDate>
       <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
-      <description>&lt;h2 id=&#34;языки-научного-программирования&#34;&gt;Языки научного программирования&lt;/h2&gt;
-&lt;p&gt;В компьютерном программировании научный язык программирования может относиться к двум степеням одного и того же понятия.&lt;/p&gt;
-&lt;p&gt;В широком смысле научный язык программирования - это язык программирования, который широко используется для вычислительной науки и вычислительной математики. В этом смысле C /C ++ и Python можно считать научными языками программирования.&lt;/p&gt;
-&lt;p&gt;В более широком смысле научный язык программирования - это тот, который разработан и оптимизирован для использования математических формул и матриц. Такие языки характеризуются не только наличием библиотек, выполняющих математические или научные функции, но и синтаксисом самого языка. Например, ни C ++, ни Python не имеют встроенных матричных типов или функций для матричной арифметики (сложение, умножение и т.д.); вместо этого эта функциональность становится доступной через стандартные библиотеки. Языки научного программирования в более широком смысле включают ALGOL, APL, Fortran, J, Julia, Maple, MATLAB и R.&lt;/p&gt;
-&lt;p&gt;Языки научного программирования не следует путать с научным языком в целом, который в широком смысле обозначает более высокие стандарты точности, корректности и сжатости, ожидаемые от практиков научного метода.&lt;/p&gt;
-&lt;h2 id=&#34;примеры&#34;&gt;Примеры&lt;/h2&gt;
-&lt;h3 id=&#34;линейная-алгебра&#34;&gt;Линейная алгебра&lt;/h3&gt;
-&lt;p&gt;Научные языки программирования предоставляют средства для работы с линейной алгеброй. Например, следующая программа на языке научного программирования Julia решает систему линейных уравнений:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h2&gt;
+&lt;p&gt;In computer programming, a scientific programming language can refer to two degrees of the same concept.&lt;/p&gt;
+&lt;p&gt;In a broad sense, a scientific programming language is a programming language that is widely used for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.&lt;/p&gt;
+&lt;p&gt;In a broader sense, a scientific programming language is one that is designed and optimized to use mathematical formulas and matrices. Such languages are characterized not only by the presence of libraries that perform mathematical or scientific functions, but also by the syntax of the language itself. For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication, etc.); instead, this functionality becomes available through standard libraries. Scientific programming languages in a broader sense include ALGOL, APL, Fortran, J, Julia, Maple, MATLAB and R.&lt;/p&gt;
+&lt;p&gt;Scientific programming languages should not be confused with scientific language in general, which in a broad sense denotes higher standards of accuracy, correctness and conciseness expected from practitioners of the scientific method.&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;h3 id=&#34;linear-algebra&#34;&gt;Linear algebra&lt;/h3&gt;
+&lt;p&gt;Scientific programming languages provide tools for working with linear algebra. For example, the following program in the Julia scientific programming language solves a system of linear equations:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A = rand(20, 20)  # A - матрица 20x20
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;b = rand(20)      # b - вектор из 20 элементов
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;x = A\b           # x - решение A * x = b
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Работа с большими векторами и матрицами является ключевой особенностью этих языков, поскольку линейная алгебра закладывает основу для математической оптимизации, которая, в свою очередь, обеспечивает основные приложения, такие как глубокое обучение.&lt;/p&gt;
-&lt;h3 id=&#34;математическая-оптимизация&#34;&gt;Математическая оптимизация&lt;/h3&gt;
-&lt;p&gt;На научном языке программирования мы можем вычислять оптимумы функций с синтаксисом, близким к математическому языку. Например, следующий код Julia находит минимум многочлена&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Working with large vectors and matrices is a key feature of these languages, as linear algebra lays the foundation for mathematical optimization, which in turn provides basic applications such as deep learning.&lt;/p&gt;
+&lt;h3 id=&#34;mathematical-optimization&#34;&gt;Mathematical optimization&lt;/h3&gt;
+&lt;p&gt;In a scientific programming language, we can calculate the optimum of functions with a syntax close to a mathematical language. For example, the following Julia code finds the minimum of a polynomial&lt;/p&gt;
 &lt;p&gt;$$ P(x,y)=x^2-3&lt;em&gt;x&lt;/em&gt;y+5&lt;em&gt;y^2-7&lt;/em&gt;y+3. $$&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;использование Optim
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;P(x,y) = x^2 - 3x*y + 5y^2 - 7y + 3
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;z₀ = [ 0.0
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;       0.0 ]     # отправная точка для алгоритма оптимизации
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;       0.0 ]     
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;optimize(z -&amp;gt; P(z...), z₀, Ньютон();
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;         автодифференцирование = : вперед)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;В этом примере используется методНьютона для минимизации. Современные научные языки программирования будут использовать автоматическое дифференцирование для вычисления градиентов и мешанинных значений функции, задаваемой в качестве входных данных; ср. дифференцируемое программирование. Здесь для этой задачи было выбрано автоматическое прямое дифференцирование. Старые научные языки программирования, такие как почтенный Fortran, потребовали бы от программиста передать рядом с оптимизируемой функцией функцию, которая вычисляет градиент, и функцию, которая вычисляет гессиан.&lt;/p&gt;
-&lt;p&gt;С большим знанием функции, которую нужно минимизировать, можно использовать более эффективные алгоритмы. Например, выпуклая оптимизация обеспечивает более быстрые вычисления, когда функция является выпуклой, квадратичное программирование обеспечивает более быстрые вычисления, когда функция является максимально квадратичной по своим переменным, и линейное программирование, когда функция является максимально линейной.&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;optimize(z -&amp;gt; P(z...), z₀, Newton();
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;         )
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This example uses Newton&amp;rsquo;s method to minimize. Modern scientific programming languages will use automatic differentiation to calculate gradients and hash values of a function given as input; cf. differentiable programming. Here automatic direct differentiation was chosen for this task. Old scientific programming languages, such as the venerable Fortran, would require the programmer to pass next to the optimized function a function that calculates the gradient and a function that calculates the Hessian.&lt;/p&gt;
+&lt;p&gt;With more knowledge of the function to be minimized, more efficient algorithms can be used. For example, convex optimization provides faster calculations when the function is convex, quadratic programming provides faster calculations when the function is maximally quadratic in its variables, and linear programming when the function is maximally linear.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе 4.0</title>
+      <title>Post about last week 4.0</title>
       <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_4/</link>
       <pubDate>Sat, 06 May 2023 00:18:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_4/</guid>
-      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
-&lt;h3 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h3&gt;
-&lt;p&gt;В понедельник у нас был выходной. Поэтому я отправилась гулять с друзьями утром, затем сделала домашнее задание, а вечером мы с подругой пошли в театр.&lt;/p&gt;
-&lt;h3 id=&#34;вторник&#34;&gt;Вторник&lt;/h3&gt;
-&lt;p&gt;С утра я поехала в университет. Первой парой у нас был матанализ, а второй - компьютерная алгебра. Затем я пошла на тренировку: там я вдоволь побегала, сделала силовые упражнения, в общем, провела время с пользой для своего здоровья. Мне понравился день!&lt;/p&gt;
-&lt;h3 id=&#34;среда&#34;&gt;Среда&lt;/h3&gt;
-&lt;p&gt;А в среду у нас тоже были всего 2 пары утром - аналитическая геометрия и математическая логика. Эти предметы я обожаю, поэтому на этих парах время для меня летит незаметно.&lt;/p&gt;
-&lt;h3 id=&#34;четверг&#34;&gt;Четверг&lt;/h3&gt;
-&lt;p&gt;Утром я пришла ко второй паре - технологии программирования. Она оказалась интересной, мы проходили матрицы и писали некоторые операторы для них. Затем у нас был перерыв, а после - пара лекции по матанализу.&lt;/p&gt;
-&lt;h3 id=&#34;пятница&#34;&gt;Пятница&lt;/h3&gt;
-&lt;p&gt;Сегодня я решила дать себе возможность отдохнуть, и не пошла на пары по модулю переводчика. Я отправилась к дяде в гости и поделала некоторое домашнее задание.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;last-weeks-post&#34;&gt;Last week&amp;rsquo;s post&lt;/h2&gt;
+&lt;h3 id=&#34;monday&#34;&gt;Monday&lt;/h3&gt;
+&lt;p&gt;We had a day off on Monday. So I went for a walk with friends in the morning, then did my homework, and in the evening my friend and I went to the theater.&lt;/p&gt;
+&lt;h3 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h3&gt;
+&lt;p&gt;In the morning I went to the university. The first pair we had was matanalysis, and the second was computer algebra. Then I went to training: there I ran a lot, did strength exercises, in general, spent time with benefits for my health. I enjoyed the day!&lt;/p&gt;
+&lt;h3 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;And on Wednesday we also had only 2 pairs in the morning - analytical geometry and mathematical logic. I adore these items, so time flies unnoticed for me on these pairs.&lt;/p&gt;
+&lt;h3 id=&#34;thursday&#34;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;In the morning I came to the second pair - programming technology. It turned out to be interesting, we went through matrices and wrote some operators for them. Then we had a break, and after that - a couple of lectures on matanalysis.&lt;/p&gt;
+&lt;h3 id=&#34;friday&#34;&gt;Friday&lt;/h3&gt;
+&lt;p&gt;Today I decided to give myself the opportunity to relax, and I did not go to pairs on the translator module. I went to visit my uncle and did some homework.&lt;/p&gt;
 &lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
-&lt;p&gt;Благодарю за прочтение! Подпишитесь, чтобы не пропускать выходы новых постов!&lt;/p&gt;
+&lt;p&gt;Thank you for reading! Subscribe so as not to miss the releases of new posts!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Оформление отчётов</title>
+      <title>Making reports</title>
       <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
-      <description>&lt;h2 id=&#34;оформление-отчётов&#34;&gt;Оформление отчётов&lt;/h2&gt;
-&lt;h3 id=&#34;начало-работы&#34;&gt;Начало работы&lt;/h3&gt;
-&lt;p&gt;В самом начале мы должны были клонировать репозиторий с гитхаба, который даж нам преподаватель, чтобы иметь возможность генерировать отчёты по лабораторным работам по готовым шаблонам, которые просто требуется заполнить своими данными.&lt;/p&gt;
-&lt;h3 id=&#34;что-за-отчёты&#34;&gt;Что за отчёты?&lt;/h3&gt;
-&lt;p&gt;Все лабораторные работы должны выполняться с фиксацией снимков экрана (скриншотов), фиксирующих выполнение заданий лабораторной работы.&lt;/p&gt;
-&lt;h3 id=&#34;составляющие-отчёта&#34;&gt;Составляющие отчёта&lt;/h3&gt;
-&lt;p&gt;Отчёт должен включать в себя:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;making-reports&#34;&gt;Making reports&lt;/h2&gt;
+&lt;h3 id=&#34;getting-started&#34;&gt;Getting started&lt;/h3&gt;
+&lt;p&gt;At the very beginning, we had to clone the repository from the github, which the teacher gave us, in order to be able to generate reports on laboratory work using ready-made templates that just need to be filled in with our data.&lt;/p&gt;
+&lt;h3 id=&#34;what-kind-of-reports&#34;&gt;What kind of reports?&lt;/h3&gt;
+&lt;p&gt;All laboratory work must be carried out with the fixation of screen shots (screenshots) that record the completion of laboratory work tasks.&lt;/p&gt;
+&lt;h3 id=&#34;components-of-the-report&#34;&gt;Components of the report&lt;/h3&gt;
+&lt;p&gt;The report should include:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Титульный лист с указанием номера лабораторной работы и ФИО студента.&lt;/li&gt;
-&lt;li&gt;Формулировка цели работы.&lt;/li&gt;
-&lt;li&gt;Описание результатов выполнения задания:
-– скриншоты (снимки экрана), фиксирующие выполнение лабораторной работы;
-– листинги (исходный код) программ (если они есть);
-– результаты выполнения программ (текст или снимок экрана в зависимости от
-задания).&lt;/li&gt;
-&lt;li&gt;Выводы, согласованные с целью работы.&lt;/li&gt;
-&lt;li&gt;Ответы на контрольные вопросы.&lt;/li&gt;
+&lt;li&gt;The title page with the number of the laboratory work and the full name of the student.&lt;/li&gt;
+&lt;li&gt;Formulation of the purpose of the work.&lt;/li&gt;
+&lt;li&gt;Description of the results of the task:
+– screenshots (screenshots) that record the performance of laboratory work;
+– listings (source code) of programs (if any);
+– program execution results (text or screenshot depending on
+the task).&lt;/li&gt;
+&lt;li&gt;Conclusions agreed with the purpose of the work.&lt;/li&gt;
+&lt;li&gt;Answers to security questions.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;формат-отчётов&#34;&gt;Формат отчётов&lt;/h3&gt;
-&lt;p&gt;Отчёт пишется в Markdown, затем с помощью команды make генерируется в форматы: docx и pdf благодаря использованию makefile.&lt;/p&gt;
+&lt;h3 id=&#34;report-format&#34;&gt;Report format&lt;/h3&gt;
+&lt;p&gt;The report is written in Markdown, then using the make command it is generated in docx and pdf formats thanks to the use of makefile.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе 3.0</title>
+      <title>Post about last week 3.0</title>
       <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_3/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_3/</guid>
-      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
-&lt;h3 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h3&gt;
-&lt;p&gt;Неделя началась с учёбы на удалёнке. Я заработала баллы за активность на лекции и отправилась гулять с друзьями. Затем вечером мне нужно было улетать обратно в Москву. Вернулась я поздно, зато долетела без приключений.&lt;/p&gt;
-&lt;h3 id=&#34;вторник&#34;&gt;Вторник&lt;/h3&gt;
-&lt;p&gt;Сегодня на матанализе было интересно. Потом я пошла на тренировку.&lt;/p&gt;
-&lt;h3 id=&#34;среда&#34;&gt;Среда&lt;/h3&gt;
-&lt;p&gt;Я заработала баллы за активность на семинаре по мат.логике, а также успешно сдала коллоквиум по аналитической геометрии на 10/10!&lt;/p&gt;
-&lt;h3 id=&#34;четверг&#34;&gt;Четверг&lt;/h3&gt;
-&lt;p&gt;Сегодня я сделала всё, что запланировала и сходила на учёбу.&lt;/p&gt;
-&lt;h3 id=&#34;пятница&#34;&gt;Пятница&lt;/h3&gt;
-&lt;p&gt;Сходила на пары по английскому, сдала работы. Приготовила ужин и посмотрела интересный фильм.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;last-weeks-post&#34;&gt;Last week&amp;rsquo;s post&lt;/h2&gt;
+&lt;h3 id=&#34;monday&#34;&gt;Monday&lt;/h3&gt;
+&lt;p&gt;The week began with studying at a remote location. I earned points for being active at the lecture and went for a walk with friends. Then in the evening I had to fly back to Moscow. I returned late, but I flew without incident.&lt;/p&gt;
+&lt;h3 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h3&gt;
+&lt;p&gt;It was interesting at the matanalysis today. Then I went to practice.&lt;/p&gt;
+&lt;h3 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;I earned points for my activity at the mat seminar.logic, and also successfully passed the colloquium on analytical geometry for 10/10!&lt;/p&gt;
+&lt;h3 id=&#34;thursday&#34;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;Today I did everything I had planned and went to school.&lt;/p&gt;
+&lt;h3 id=&#34;friday&#34;&gt;Friday&lt;/h3&gt;
+&lt;p&gt;I went to English classes, passed the papers. I cooked dinner and watched an interesting movie.&lt;/p&gt;
 &lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
-&lt;p&gt;Благодарю за прочтение! Такие посты будут выходить раз в 3 недели. Следуйте за мной, чтобы не пропустить ничего интересного.&lt;/p&gt;
+&lt;p&gt;Thank you for reading! Such posts will be published once every 3 weeks. Follow me so as not to miss anything interesting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе 2.0</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_2/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_2/</guid>
-      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
-&lt;h3 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h3&gt;
-&lt;p&gt;Неделя началась с учёбы на удалёнке. Я прослушала лекцию, затем съездила в гости к друзьям, сделала домашнее задание. Продуктивно получилось!&lt;/p&gt;
-&lt;h3 id=&#34;вторник&#34;&gt;Вторник&lt;/h3&gt;
-&lt;p&gt;Пары сегодня были интересными. На матанализе за правильные ответы раздавали конфеты.&lt;/p&gt;
-&lt;h3 id=&#34;среда&#34;&gt;Среда&lt;/h3&gt;
-&lt;p&gt;Сегодня мои любимые предметы! День прекрасен.&lt;/p&gt;
-&lt;h3 id=&#34;четверг&#34;&gt;Четверг&lt;/h3&gt;
-&lt;p&gt;Сегодня мы пытались починить некорректно работающую функцию на С++, и сделали это. Ура! Вечером мы отправились в кино на фильм-катастрофу.&lt;/p&gt;
-&lt;h3 id=&#34;пятница&#34;&gt;Пятница&lt;/h3&gt;
-&lt;p&gt;Сходила на пары по английскому, сдала работы. А вечером мы отправились гулять по центру города и зашли поужинать в кафе. Идеальное завершение дня.&lt;/p&gt;
-&lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
-&lt;p&gt;Благодарю за прочтение! Такие посты будут выходить раз в 3 недели. Следуйте за мной, чтобы не пропустить ничего интересного.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Языки разметки. Markdown</title>
+      <title>Markdown languages. Markdown</title>
       <link>https://example.com/post/markdown/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;h2 id=&#34;что-такое-языки-разметки-и-с-чем-их-едят&#34;&gt;Что такое языки разметки и с чем их едят?&lt;/h2&gt;
-&lt;p&gt;Если вы впервые слышите это словосочетание, то эта статья определённо для вас! Итак, Язы́к разме́тки (текста) в компьютерной терминологии — набор символов или последовательностей символов, вставляемых в текст для передачи информации о его отображении или строении. Принадлежит классу компьютерных языков. Текстовый документ, написанный с использованием языка разметки, содержит не только сам текст (как последовательность слов и знаков препинания), но и дополнительную информацию о различных его участках — например, указание на заголовки, выделения, списки и т. д. В более сложных случаях язык разметки позволяет вставлять в документ интерактивные элементы и содержание других документов.
-Следует отметить, что язык разметки неполон по Тьюрингу и обычно не считается языком программирования.&lt;/p&gt;
-&lt;h2 id=&#34;логическая-и-визуальная-разметки&#34;&gt;Логическая и визуальная разметки&lt;/h2&gt;
-&lt;p&gt;Различают логическую и визуальную разметки. В первом случае речь идёт только о том, какую роль играет данный участок документа в его общей структуре (например, «данная строка является заголовком»). Во втором — определяется, как именно будет отображаться этот элемент (например, «данную строку следует отображать жирным шрифтом»). Идея языков разметки состоит в том, что визуальное отображение документа должно автоматически получаться из логической разметки и не зависеть от его непосредственного содержания. Это упрощает автоматическую обработку документа и его отображение в различных условиях (например, один и тот же файл может по-разному отображаться на экране компьютера, мобильного телефона и на печати, поскольку свойства этих устройств вывода существенно различаются). Однако это правило часто нарушается: например, создавая документ в редакторе наподобие MS Word, пользователь может выделять заголовки жирным шрифтом, но нигде не указывать, что эта строка является заголовком.&lt;/p&gt;
-&lt;h2 id=&#34;примеры-языков-разметки&#34;&gt;Примеры языков разметки&lt;/h2&gt;
-&lt;p&gt;Языки разметки используются везде, где требуется получение форматированного текста[en] на основании одного лишь текста: в типографии (SGML, TeX, PostScript, RTF), пользовательских интерфейсах компьютеров (Microsoft Word, OpenOffice), Всемирной Сети (HTML, XHTML, XML, WML, VML, PGML, SVG, XBRL). Довольно распространён и Markdown, о котором пойдёт речь дальше.&lt;/p&gt;
-&lt;h2 id=&#34;синтаксис-markdown&#34;&gt;Синтаксис Markdown&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Оформление элементов текста в Markdown:&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;what-are-markup-languages-and-what-are-they-eaten-with&#34;&gt;What are markup languages and what are they eaten with?&lt;/h2&gt;
+&lt;p&gt;If this is the first time you hear this phrase, then this article is definitely for you! So, a markup language (text) in computer terminology is a set of characters or sequences of characters inserted into a text to transmit information about its display or structure. Belongs to the class of computer languages. A text document written using a markup language contains not only the text itself (as a sequence of words and punctuation marks), but also additional information about its various sections — for example, an indication of titles, selections, lists, etc. In more complex cases, the markup language allows you to insert interactive elements and the contents of other documents into the document.
+It should be noted that the markup language is incomplete by Turing and is not usually considered a programming language.&lt;/p&gt;
+&lt;h2 id=&#34;logical-and-visual-markup&#34;&gt;Logical and visual markup&lt;/h2&gt;
+&lt;p&gt;There are logical and visual markup. In the first case, we are talking only about what role this section of the document plays in its overall structure (for example, &amp;ldquo;this line is the title&amp;rdquo;). In the second, it determines exactly how this element will be displayed (for example, &amp;ldquo;this line should be displayed in bold&amp;rdquo;). The idea of markup languages is that the visual representation of a document should be automatically derived from logical markup and not depend on its immediate content. This simplifies the automatic processing of the document and its display in different conditions (for example, the same file may be displayed differently on a computer screen, mobile phone and print, since the properties of these output devices differ significantly). However, this rule is often violated: for example, when creating a document in an editor like MS Word, the user can highlight the titles in bold, but not indicate anywhere that this line is the title.&lt;/p&gt;
+&lt;h2 id=&#34;examples-of-markup-languages&#34;&gt;Examples of markup languages&lt;/h2&gt;
+&lt;p&gt;Markup languages are used wherever it is required to obtain formatted text based on text alone: in typography (SGML, TeX, PostScript, RTF), computer user interfaces (Microsoft Word, OpenOffice), the World Wide Web (HTML, XHTML, XML, WML, VML, PGML, SVG, XBRL). Markdown is also quite common, which will be discussed further.&lt;/p&gt;
+&lt;h2 id=&#34;markdown-syntax&#34;&gt;Markdown Syntax&lt;/h2&gt;
+&lt;p&gt;Formatting of text elements in Markdown:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Заголовки:&lt;/li&gt;
+&lt;li&gt;Headings:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Чтобы создать заголовок, используем знак # (кол-во решёток соответствует уровню заголовка).&lt;/p&gt;
+&lt;p&gt;To create a header, use the # sign (the number of lattices corresponds to the header level).&lt;/p&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Тип начертания:&lt;/li&gt;
+&lt;li&gt;Type of font:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Полужирное начертание (** с двух сторон). Полужирное + курсивное начертание (*** с двух сторон).&lt;/p&gt;
+&lt;p&gt;Bold font (** on both sides). Bold + italics (*** on both sides).&lt;/p&gt;
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
-&lt;p&gt;Цитирование (&amp;gt;): Ставится знак больше и далее пишется цитата.&lt;/p&gt;
+&lt;p&gt;Quoting (&amp;gt;): A larger sign is placed and then a quote is written.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Списки:&lt;/p&gt;
+&lt;p&gt;Lists:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Маркированный (неупорядоченный) список (Обозначаем элементы списка тире или звёздочками).&lt;/p&gt;
-&lt;p&gt;Вложение списков (используем отступы) перед кажды подпунктом.&lt;/p&gt;
-&lt;p&gt;Упорядоченный список (используем цифры):
-1.Пункт 1;
-2.Пункт 2;
-3.Пункт 3.&lt;/p&gt;
-&lt;p&gt;Чтобы вложить один список в другой, также используем отступы.&lt;/p&gt;
+&lt;p&gt;A bulleted (unordered) list (Denoting the list items with dashes or asterisks).&lt;/p&gt;
+&lt;p&gt;Embedding lists (using indents) before each sub-item.&lt;/p&gt;
+&lt;p&gt;Ordered list (using numbers):
+1.Item 1;
+2. Item 2;
+3. Item 3.&lt;/p&gt;
+&lt;p&gt;To nest one list into another, we also use indents.&lt;/p&gt;
 &lt;ol start=&#34;5&#34;&gt;
 &lt;li&gt;
-&lt;p&gt;Гиперссылки (в квадратных скобках пишется название ссылки, а в круглых рядом - веб-сайт).&lt;/p&gt;
+&lt;p&gt;Hyperlinks (the name of the link is written in square brackets, and the website is written in round brackets next to it).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Оформление кода (код оформляется символами ``` сверху и снизу):&lt;/p&gt;
+&lt;p&gt;Code design (the code is designed with the symbols &lt;code&gt; &lt;/code&gt; above and below):&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Оформление картинок:
-Чтобы вставить в текст иллюстрацию, нужно использовать следующий синтаксис (![указываем название изображения](относительный путь к изображению)) (рис. @fig:001):&lt;/p&gt;
+&lt;p&gt;Design of images:
+To insert an illustration into the text, you need to use the following syntax (!specify the name of the image) (Fig. @fig:001):&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;{#fig:001 width=70%}&lt;/p&gt;
@@ -191,61 +230,82 @@
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе 1.0</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/</guid>
-      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
-&lt;h3 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h3&gt;
-&lt;p&gt;Началась моя неделя с учебного понедельника на удалёнке. У меня было две пары подряд: математическая логика и технология программирования. Потом я села за домашнее задание, коего у нас, к сожалению, довольно много. Закончив с домашкой, я отправилась в супермаркет за продуктами, а потом готовила еду: свои любимые котлетки с картошкой и овощной салатик. Вечером я готовилась к следующему учебному дню и легла спать относительно рано, в 23:00, чтобы на следующее утро поехать к первой паре в свой любимый университет.&lt;/p&gt;
-&lt;h3 id=&#34;вторник&#34;&gt;Вторник&lt;/h3&gt;
-&lt;p&gt;Утром я проснулась и поняла, что проспала и в университет я, разумеется, не поехала. Осталась дома, снова решая домашку, чтобы освободить себе выходные. А потом я вспомнила, что нахожусь на больничном официально и этот день не будет считаться прогулом.&lt;/p&gt;
-&lt;h3 id=&#34;среда&#34;&gt;Среда&lt;/h3&gt;
-&lt;p&gt;8 марта! Мы с моей подругой отправились гулять по городу, нам подарили по чудесному букету тюльпанчиков, мы поели роллов и вечером я отправилась в театр на спектакль “Онегин”. Представление было поистине шикарным! Домой я вернулась поздно, сразу решив, что в четверг к первой паре я не пойду.&lt;/p&gt;
-&lt;h3 id=&#34;четверг&#34;&gt;Четверг&lt;/h3&gt;
-&lt;p&gt;Случилось чудо, и к первой паре я пошла! Этот день выдался отличным: мальчики поздравили нас с прошедшим праздником, подарили капкейки и открытки.&lt;/p&gt;
-&lt;h3 id=&#34;пятница&#34;&gt;Пятница&lt;/h3&gt;
-&lt;p&gt;Утром я делала домашнее задание, а днём отправилась в университет на выступление по Модулю переводчика. Мы оттанцевали, и вместо пар нас отпустили домой. Вечером я готовила доклад по истории. Прекрасный день!&lt;/p&gt;
+      <title>Post about last week 2.0</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_2/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_2/</guid>
+      <description>&lt;h2 id=&#34;last-weeks-post&#34;&gt;Last week&amp;rsquo;s post&lt;/h2&gt;
+&lt;h3 id=&#34;monday&#34;&gt;Monday&lt;/h3&gt;
+&lt;p&gt;The week began with studying at a remote location. I listened to the lecture, then went to visit friends, did my homework. It turned out productively!&lt;/p&gt;
+&lt;h3 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h3&gt;
+&lt;p&gt;The couples were interesting today. At the matanalysis, candy was distributed for the correct answers.&lt;/p&gt;
+&lt;h3 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;Today are my favorite subjects! The day is beautiful.&lt;/p&gt;
+&lt;h3 id=&#34;thursday&#34;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;Today we tried to fix an incorrectly working function in C++, and we did it. Hurray! In the evening we went to the cinema for a disaster movie.&lt;/p&gt;
+&lt;h3 id=&#34;friday&#34;&gt;Friday&lt;/h3&gt;
+&lt;p&gt;I went to English classes, passed the papers. And in the evening we went for a walk around the city center and went to have dinner in a cafe. The perfect end to the day.&lt;/p&gt;
 &lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
-&lt;p&gt;Благодарю за прочтение! Такие посты будут выходить раз в 3 недели. Следуйте за мной, чтобы не пропустить ничего интересного.&lt;/p&gt;
+&lt;p&gt;Thank you for reading! Such posts will be published once every 3 weeks. Follow me so as not to miss anything interesting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Системы контроля версий. Git</title>
+      <title>Post about last week 1.0</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_1/</guid>
+      <description>&lt;h2 id=&#34;last-weeks-post&#34;&gt;Last week&amp;rsquo;s post&lt;/h2&gt;
+&lt;h3 id=&#34;monday&#34;&gt;Monday&lt;/h3&gt;
+&lt;p&gt;My week began with a school Monday at a remote location. I had two pairs in a row: mathematical logic and programming technology. Then I sat down for homework, of which, unfortunately, we have quite a lot. After finishing my homework, I went to the supermarket for groceries, and then I cooked food: my favorite cutlets with potatoes and a vegetable salad. In the evening, I was preparing for the next school day and went to bed relatively early, at 23:00, so that the next morning I could go to the first couple at my favorite university.&lt;/p&gt;
+&lt;h3 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h3&gt;
+&lt;p&gt;In the morning I woke up and realized that I had overslept and, of course, I did not go to university. I stayed at home, doing my homework again to free up the weekend for myself. And then I remembered that I was officially on sick leave and this day would not be considered truancy.&lt;/p&gt;
+&lt;h3 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;March 8th! My friend and I went for a walk around the city, we were presented with a wonderful bouquet of tulips, we ate rolls and in the evening I went to the theater to see the play “Onegin”. The performance was truly gorgeous! I returned home late, immediately deciding that I would not go to the first couple on Thursday.&lt;/p&gt;
+&lt;h3 id=&#34;thursday&#34;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;A miracle happened, and I went to the first couple! This day turned out to be great: the boys congratulated us on the last holiday, presented cupcakes and postcards.&lt;/p&gt;
+&lt;h3 id=&#34;friday&#34;&gt;Friday&lt;/h3&gt;
+&lt;p&gt;In the morning I did my homework, and in the afternoon I went to the university for a speech on the Translator Module. We danced, and instead of couples we were allowed to go home. In the evening I was preparing a history report. Beautiful day!&lt;/p&gt;
+&lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
+&lt;p&gt;Thank you for reading! Such posts will be published once every 3 weeks. Follow me so as not to miss anything interesting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VCs. Git</title>
       <link>https://example.com/post/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8.-git/</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8.-git/</guid>
-      <description>&lt;h2 id=&#34;системы-контроля-версий-git&#34;&gt;Системы контроля версий. Git&lt;/h2&gt;
-&lt;h2 id=&#34;управление-версиями-git&#34;&gt;Управление версиями. Git.&lt;/h2&gt;
-&lt;p&gt;Системы контроля версий (ВКС, внгл. VCS - Vesion Control Systems) применяются при работе нескольких человек над каким-либо проектом. Они позволяют сделать откат к предыдущим версиям проекта, не потеряв при этом новых наработок и внесённых в проект изменений. К примеру, разработчики выложили новую версию проекта, однако в ней обнаружились ошибки. Чтобы не потерять изменения и исправить ошибки, благодаря системам контроля версий есть возможность вернуться к старому, рабочему варианту, и затем устранить недоработки.&lt;/p&gt;
-&lt;p&gt;У пользователей, в свою очередь, есть возможность посмотреть, что именно поменялось, и сравнить новую версию со старой. Разработчики видят, кто и какие внёс изменения в проект, чтобы в случае чего знать, с кого спросить.&lt;/p&gt;
-&lt;p&gt;Конечно, можно просто копировать проект в другой каталог, такой подход часто применяется из-за своей простоты, но имеет множество недостатков:&lt;/p&gt;
+      <description>&lt;h2 id=&#34;version-control-systems-git&#34;&gt;Version control systems. Git&lt;/h2&gt;
+&lt;h2 id=&#34;version-control-git&#34;&gt;Version control. Git.&lt;/h2&gt;
+&lt;p&gt;Version control systems (VCS, vngl. VCS - Vesion Control Systems) are used when several people are working on a project. They allow you to roll back to previous versions of the project without losing new developments and changes made to the project. For example, the developers posted a new version of the project, but there were errors in it. In order not to lose changes and correct errors, thanks to version control systems, it is possible to return to the old, working version, and then eliminate the flaws.&lt;/p&gt;
+&lt;p&gt;Users, in turn, have the opportunity to see what exactly has changed and compare the new version with the old one. Developers see who and what changes have been made to the project, so that if anything happens, they know who to ask.&lt;/p&gt;
+&lt;p&gt;Of course, you can simply copy the project to another directory, this approach is often used because of its simplicity, but it has many disadvantages:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;избыточность (дублируется весь код, а не только изменения);&lt;/li&gt;
-&lt;li&gt;нет механизмов для распределения работы между несколькими разработчиками;&lt;/li&gt;
-&lt;li&gt;нет данных о том что именно изменилось (обычно пишут history файл с общей информацией об изменениях).&lt;/li&gt;
+&lt;li&gt;redundancy (all code is duplicated, not just changes);&lt;/li&gt;
+&lt;li&gt;there are no mechanisms for distributing work between multiple developers;&lt;/li&gt;
+&lt;li&gt;there is no data on what exactly has changed (usually they write a history file with general information about the changes).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Для решения части из этих проблем были разработаны локальные СКВ. Одной из первых и наиболее популярных СКВ такого типа являлась RCS, которая была разработана в 1985 году. Для каждого файла, зарегистрированного в системе, она хранит полную историю изменений, причём для текстовых файлов используется эффективный алгоритм дельта-компрессии, когда хранится только последняя версия и все межверсионные изменения. Такие СКВ решали только первую проблему - избыточность данных. Современные СКВ можно разделить на две группы: централизованные и распределенные.&lt;/p&gt;
-&lt;h2 id=&#34;централизованные-системы-контроля-версий&#34;&gt;Централизованные системы контроля версий&lt;/h2&gt;
-&lt;p&gt;Следующей основной проблемой оказалась необходимость сотрудничать с разработчиками за другими компьютерами. Чтобы решить её, были созданы централизованные системы контроля версий (ЦСКВ). В таких системах, например CVS, Subversion и Perforce, есть центральный сервер, на котором хранятся все файлы под версионным контролем, и ряд клиентов, которые получают копии файлов из него. Много лет это было стандартом для систем контроля версий.&lt;/p&gt;
-&lt;p&gt;Такой подход имеет множество преимуществ, особенно перед локальными СКВ. К примеру, все знают, кто и чем занимается в проекте. У администраторов есть чёткий контроль над тем, кто и что может делать, и, конечно, администрировать ЦСКВ намного легче, чем локальные базы на каждом клиенте.&lt;/p&gt;
-&lt;p&gt;Однако при таком подходе есть и несколько серьёзных недостатков. Наиболее очевидный — централизованный сервер является уязвимым местом всей системы. Если сервер выключается на час, то в течение часа разработчики не могут взаимодействовать, и никто не может сохранить новой версии своей работы. Если же повреждается диск с центральной базой данных и нет резервной копии, вы теряете абсолютно всё — всю историю проекта, разве что за исключением нескольких рабочих версий, сохранившихся на рабочих машинах пользователей. Локальные системы контроля версий подвержены той же проблеме: если вся история проекта хранится в одном месте, вы рискуете потерять всё.&lt;/p&gt;
-&lt;h2 id=&#34;распределённые-системы-контроля-версий&#34;&gt;Распределённые системы контроля версий&lt;/h2&gt;
-&lt;p&gt;И в этой ситуации в игру вступают распределённые системы контроля версий. В таких системах как Git, Mercurial, Bazaar или Darcs клиенты не просто выгружают последние версии файлов, а полностью копируют весь репозиторий (репозиторий, в простонародье репа, это место, где хранятся и поддерживаются какие-либо данные). При этом можно выделить центральный репозиторий (условно), в который будут отправляться изменения из локальных и, с ним же эти локальные репозитории будут синхронизироваться. Поэтому в случае, когда “умирает” сервер, через который шла работа, любой клиентский репозиторий может быть скопирован обратно на сервер, чтобы восстановить базу данных. Каждый раз, когда клиент забирает свежую версию файлов, он создаёт себе полную копию всех данных. Кроме того, в большей части этих систем можно работать с несколькими удалёнными репозиториями.
-На сегодняшний день стандартом де-факто стала распределенная система контроля версий - GIT, но в старых больших проектах вполне могут встретиться устаревшие СКВ (например, популярная в свое время Subversion).&lt;/p&gt;
-&lt;h2 id=&#34;основы-git&#34;&gt;Основы GIT&lt;/h2&gt;
-&lt;p&gt;Почти все операции — локальные
-Для совершения большинства операций в Git’е необходимы только локальные файлы и ресурсы, т.е. обычно информация с других компьютеров в сети не нужна. К примеру, чтобы показать историю проекта, Git’у не нужно скачивать её с сервера, он просто читает её прямо из вашего локального репозитория. Поэтому историю вы увидите практически мгновенно. Если вам нужно просмотреть изменения между текущей версией файла и версией, сделанной месяц назад, Git может взять файл месячной давности и вычислить разницу на месте, вместо того чтобы запрашивать разницу у СКВ-сервера или качать с него старую версию файла и делать локальное сравнение.
-Кроме того, работа локально означает, что практически все можно сделать без доступа к Сети. Если вы в самолёте или в поезде и хотите немного поработать, можно спокойно делать коммиты, а отправить их, как только станет доступна сеть.&lt;/p&gt;
-&lt;p&gt;Чаще всего данные в Git только добавляются Практически все действия, которые вы совершаете в Git’е, только добавляют данные в базу. Очень сложно заставить систему удалить данные или сделать что-то неотменяемое. Можно, как и в любой другой СКВ, потерять данные, которые вы ещё не сохранили, но как только они зафиксированы, их очень сложно потерять, особенно если вы регулярно отправляете изменения в другой репозиторий.&lt;/p&gt;
-&lt;h2 id=&#34;три-состояния-файлов&#34;&gt;Три состояния файлов&lt;/h2&gt;
-&lt;p&gt;В Git’е файлы могут находиться в одном из трёх состояний: зафиксированном, изменённом и подготовленном. “Зафиксированный” значит, что файл уже сохранён в вашей локальной базе. К изменённым относятся файлы, которые поменялись, но ещё не были зафиксированы. Подготовленные файлы — это изменённые файлы, отмеченные для включения в следующий коммит.&lt;/p&gt;
-&lt;p&gt;Стандартный рабочий процесс с использованием Git’а выглядит примерно так:&lt;/p&gt;
+&lt;p&gt;To solve some of these problems, local SLE has been developed. One of the first and most popular SLE of this type was RCS, which was developed in 1985. For each file registered in the system, it stores a complete history of changes, and for text files, an effective delta compression algorithm is used, when only the latest version and all interversion changes are stored. Such SLE solved only the first problem - data redundancy. Modern SLE can be divided into two groups: centralized and distributed.&lt;/p&gt;
+&lt;h2 id=&#34;centralized-version-control-systems&#34;&gt;Centralized version control systems&lt;/h2&gt;
+&lt;p&gt;The next major problem was the need to collaborate with developers on other computers. To solve it, centralized version control systems (CSCs) were created. In such systems, for example, CVS, Subversion and Perforce, there is a central server on which all files are stored under versioning control, and a number of clients who receive copies of files from it. This has been the standard for version control systems for many years.&lt;/p&gt;
+&lt;p&gt;This approach has many advantages, especially over local SLE. For example, everyone knows who and what is doing in the project. Administrators have clear control over who can do what, and, of course, it is much easier to administer the CSCS than local databases on each client.&lt;/p&gt;
+&lt;p&gt;However, with this approach, there are several serious drawbacks. The most obvious one is that a centralized server is a vulnerable point of the entire system. If the server is shut down for an hour, then developers cannot interact for an hour, and no one can save a new version of their work. If the disk with the central database is damaged and there is no backup, you lose absolutely everything — the entire history of the project, except for a few working versions preserved on users&amp;rsquo; working machines. Local version control systems are subject to the same problem: if the entire project history is stored in one place, you risk losing everything.&lt;/p&gt;
+&lt;h2 id=&#34;distributed-version-control-systems&#34;&gt;Distributed version control systems&lt;/h2&gt;
+&lt;p&gt;And in this situation, distributed version control systems come into play. In systems such as Git, Mercurial, Bazaar, or Darcs, clients do not just download the latest versions of files, but completely copy the entire repository (a repository, in the vulgar turnip, is a place where any data is stored and maintained). At the same time, it is possible to allocate a central repository (conditionally) to which changes from local ones will be sent and, with it, these local repositories will be synchronized. Therefore, in the case when the server through which the work was carried out “dies”, any client repository can be copied back to the server to restore the database. Every time a client picks up a fresh version of the files, he creates himself a full copy of all the data. In addition, in most of these systems, you can work with several remote repositories.
+To date, the de facto standard has become a distributed version control system - GIT, but in old large projects, outdated SLE may well occur (for example, Subversion, which was popular at the time).&lt;/p&gt;
+&lt;h2 id=&#34;git-basics&#34;&gt;GIT Basics&lt;/h2&gt;
+&lt;p&gt;Almost all operations are local
+To perform most operations in Git, only local files and resources are needed, i.e. usually information from other computers on the network is not needed. For example, to show the project history, Git doesn&amp;rsquo;t need to download it from the server, it just reads it directly from your local repository. Therefore, you will see the story almost instantly. If you need to view the changes between the current version of the file and the version made a month ago, Git can take a month-old file and calculate the difference on the spot, instead of requesting the difference from the SLE server or downloading an old version of the file from it and making a local comparison.
+In addition, working locally means that almost everything can be done without network access. If you are on a plane or on a train and want to work a little, you can safely make commits and send them as soon as the network becomes available.&lt;/p&gt;
+&lt;p&gt;Most often, data is only added to Git, Almost all actions that you perform in Git only add data to the database. It is very difficult to force the system to delete data or do something irrevocable. It is possible, as in any other SLE, to lose data that you have not saved yet, but once they are committed, it is very difficult to lose them, especially if you regularly send changes to another repository.&lt;/p&gt;
+&lt;h2 id=&#34;three-file-states&#34;&gt;Three file states&lt;/h2&gt;
+&lt;p&gt;In Git, files can be in one of three states: committed, modified, and prepared. “Committed” means that the file has already been saved in your local database. Modified files include files that have changed, but have not yet been committed. Prepared files are modified files marked for inclusion in the next commit.&lt;/p&gt;
+&lt;p&gt;The standard workflow using Git looks something like this:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Вы вносите изменения в файлы в своём рабочем каталоге.&lt;/li&gt;
-&lt;li&gt;Подготавливаете файлы, добавляя их слепки в область подготовленных файлов.&lt;/li&gt;
-&lt;li&gt;Делаете коммит, который берёт подготовленные файлы и помещает их в каталог Git’а на постоянное хранение.&lt;/li&gt;
+&lt;li&gt;You make changes to files in your working directory.&lt;/li&gt;
+&lt;li&gt;Prepare files by adding their casts to the prepared files area.&lt;/li&gt;
+&lt;li&gt;Make a commit that takes the prepared files and puts them in the Git directory for permanent storage.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>

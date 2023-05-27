@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>airplane | Academic</title>
+    <link>https://example.com/tag/airplane/</link>
+      <atom:link href="https://example.com/tag/airplane/index.xml" rel="self" type="application/rss+xml" />
+    <description>airplane</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 22 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>airplane</title>
+      <link>https://example.com/tag/airplane/</link>
+    </image>
+    
+    <item>
+      <title>Post about last week 3.0</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_3/</link>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5_3/</guid>
+      <description>&lt;h2 id=&#34;last-weeks-post&#34;&gt;Last week&amp;rsquo;s post&lt;/h2&gt;
+&lt;h3 id=&#34;monday&#34;&gt;Monday&lt;/h3&gt;
+&lt;p&gt;The week began with studying at a remote location. I earned points for being active at the lecture and went for a walk with friends. Then in the evening I had to fly back to Moscow. I returned late, but I flew without incident.&lt;/p&gt;
+&lt;h3 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h3&gt;
+&lt;p&gt;It was interesting at the matanalysis today. Then I went to practice.&lt;/p&gt;
+&lt;h3 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h3&gt;
+&lt;p&gt;I earned points for my activity at the mat seminar.logic, and also successfully passed the colloquium on analytical geometry for 10/10!&lt;/p&gt;
+&lt;h3 id=&#34;thursday&#34;&gt;Thursday&lt;/h3&gt;
+&lt;p&gt;Today I did everything I had planned and went to school.&lt;/p&gt;
+&lt;h3 id=&#34;friday&#34;&gt;Friday&lt;/h3&gt;
+&lt;p&gt;I went to English classes, passed the papers. I cooked dinner and watched an interesting movie.&lt;/p&gt;
+&lt;h3 id=&#34;ps&#34;&gt;P.S.&lt;/h3&gt;
+&lt;p&gt;Thank you for reading! Such posts will be published once every 3 weeks. Follow me so as not to miss anything interesting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

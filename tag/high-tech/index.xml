@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>high-tech | Academic</title>
+    <link>https://example.com/tag/high-tech/</link>
+      <atom:link href="https://example.com/tag/high-tech/index.xml" rel="self" type="application/rss+xml" />
+    <description>high-tech</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>high-tech</title>
+      <link>https://example.com/tag/high-tech/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://example.com/post/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</guid>
+      <description>&lt;h2 id=&#34;artificial-intelligence&#34;&gt;Artificial Intelligence&lt;/h2&gt;
+&lt;p&gt;Artificial intelligence (AI) is the science and technology of creating intelligent machines, especially intelligent computer programs. AI is related to the similar task of using computers to understand human intelligence, but is not necessarily limited to biologically plausible methods.&lt;/p&gt;
+&lt;p&gt;For 2021 , the researchers used the following classification of AI types:&lt;/p&gt;
+&lt;p&gt;Artificial Super Intelligence (ASI) is a hypothetical AI that can not only reproduce the maximum of human abilities, but even surpass it. Those who believe in ASI believe that he will gain the power to penetrate a person&amp;rsquo;s thoughts and feelings in order to subordinate him to his will. See Supermind: horror stories of futurologists or the real future of artificial intelligence?&lt;/p&gt;
+&lt;p&gt;The strong or general AI (Artificial General Intelligence, AGI), which also remains hypothetical, is a step below ASI in terms of intelligence, adherents of this type of AI are limited in their beliefs by the possibility of creating machines capable of at least performing the same actions as a person.&lt;/p&gt;
+&lt;p&gt;Weak, or narrow AI (Artificial Narrow Intelligence, ANI) allows you to see weak hints of intelligence in the behavior of machines (that&amp;rsquo;s why it is called weak). It is designed to run only a strictly defined narrow range of applications (that&amp;rsquo;s why it is called narrow). In the case of ANI, no autonomous behavior or independent development beyond human control is possible. Systems equipped with ANI can exist only in the form in which they were created by man and even theoretically cannot get out of his control.&lt;/p&gt;
+&lt;p&gt;Outdated general definitions of artificial intelligence:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(J. McCarthy) AI develops machines that have intelligent behavior;&lt;/li&gt;
+&lt;li&gt;(Britannica) AI - the ability of digital computers to solve tasks that are usually associated with highly intelligent human capabilities;&lt;/li&gt;
+&lt;li&gt;(Feigenbaum) AI - develops intelligent computer systems with capabilities that we traditionally associate with the human mind: language understanding, learning, the ability to reason, solve problems, etc.;&lt;/li&gt;
+&lt;li&gt;(Elaine Rich) AI is the science of how to teach computers to do something in which a person is currently more successful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Intelligence (from Lat. &lt;em&gt;intellectus&lt;/em&gt; — sensation, perception, understanding, understanding, concept, reason), or mind is a quality of the psyche consisting of the ability to adapt to new situations, the ability to learn and memorize based on experience, understanding and applying abstract concepts and using their knowledge to manage the environment. Intelligence is the general ability to cognize and solve difficulties, which unites all the cognitive abilities of a person: sensation, perception, memory, representation, thinking, imagination.&lt;/p&gt;
+&lt;p&gt;In the early 1980s, scientists in the field of computational theory Barr and Feigenbaum proposed the following definition of artificial intelligence (AI):
+&amp;ldquo;Artificial intelligence is a field of computer science that develops intelligent computer systems, that is, systems with capabilities that we traditionally associate with the human mind - language understanding, learning, the ability to to reason, solve problems, etc.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Later, a number of algorithms and software systems began to be attributed to AI, the distinctive feature of which is that they can solve some problems the way a person thinking about their solution would do.&lt;/p&gt;
+&lt;p&gt;The main properties of AI are language understanding, learning, and the ability to think and, importantly, act.
+AI is a complex of related technologies and processes that are developing qualitatively and rapidly, for example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;natural language text processing&lt;/li&gt;
+&lt;li&gt;machine learning;&lt;/li&gt;
+&lt;li&gt;expert systems;&lt;/li&gt;
+&lt;li&gt;virtual agents (chatbots and virtual assistants);&lt;/li&gt;
+&lt;li&gt;recommendation systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;at-what-stage-of-development-is-artificial-intelligence-now&#34;&gt;At what stage of development is artificial intelligence now?&lt;/h2&gt;
+&lt;p&gt;British scientist Stephen Hawking has often spoken about the development of artificial intelligence (AI) as the real reason for the possible destruction of the human race.&lt;/p&gt;
+&lt;p&gt;In April 2017, Stephen Hawking, during a videoconference in Beijing, held as part of the Global Mobile Internet Conference, said:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;The development of artificial intelligence can become both the most positive and the most terrible factor for humanity. We must be aware of the danger it poses,&amp;rdquo; he stressed.&lt;/p&gt;
+&lt;p&gt;As the scientist said in his interview with Wired at the end of November 2017, he fears that AI may replace humans in general. According to Hawking himself, people can create too powerful artificial intelligence, which will be extremely good at achieving their goals. And if these goals do not coincide with human goals, then people will have problems, the scientist believes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
